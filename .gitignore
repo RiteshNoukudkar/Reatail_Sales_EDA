@@ -1,0 +1,6 @@
+.jupyter/
+.jupyter_data/
+.jupyter_runtime/
+.matplotlib/
+.venv/
+venv/
